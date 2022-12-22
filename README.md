@@ -1,10 +1,7 @@
 Differences between men and women: energy intake, obesity and its
 relationship with alcohol consumption
 ================
-Mihir Halai, Peter Zavvos, Robyn Greene, Jasmine Jung, Alan Li, Qingting
-Liang, Matilda Robertson
-
-# Executive Summary
+## Executive Summary
 
 The complex problem of obesity is widespread and places a significant
 burden on an individual and the society. It is a disease that leads an
